@@ -11,4 +11,3 @@ function generateDates():DateNumber[] {
 
 export const monthDates: DateNumber[] = generateDates();
 
-// A monthday 
