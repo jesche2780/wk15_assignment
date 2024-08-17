@@ -10,3 +10,5 @@ export default function LeftButton({ icon, onClick }: ButtonProps) {
         </button>
     )
 }
+
+// A leftbutton component, which inherits the buttonprops type that handles the onclick with the onclick function. This button moves the months to the left when clicked on the calendar.

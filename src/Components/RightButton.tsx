@@ -10,3 +10,5 @@ export default function RightButton({ icon, onClick }: ButtonProps) {
         </button>
     )
 }
+
+// A rightbutton component, which inherits the buttonprops type that handles the onclick with the onclick function. This button moves the months to the right when clicked on the calendar.

@@ -8,3 +8,5 @@ export const DatePicker: React.FC<{}> = ({}) => {
         </div>
     )
 }
+
+// The datepicker component, which is the date picker container layout where the selector occurs on the calendar.

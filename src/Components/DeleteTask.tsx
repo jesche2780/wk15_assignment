@@ -10,3 +10,5 @@ export default function DeleteTask({ icon, onClick }: ButtonProps) {
         </button>
     )
 }
+
+// A delete task component which handles the onclick, calling the onclick function button props.

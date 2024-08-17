@@ -10,3 +10,5 @@ export default function AddButton({ icon, onClick }: ButtonProps) {
         </button>
     )
 }
+
+// An add task button, which inherits the button prop to handle onclick by using the onclick function.
